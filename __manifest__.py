@@ -2,9 +2,7 @@
 # Part of Rhodes Technologies.
 {
     "name": "Custom Module Template",
-    "author": "Khalid Joomun (Rhodes Technologies Ltd)",
-    "website": "https://www.rhodes.mea",
-    "support": "khalid@rhodes.mu",
+    "author": "Khalid Joomun",
     "category": "Tools",
     "description": """Custom Module Template""",
     "version": "1.0.1",
